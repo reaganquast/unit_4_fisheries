@@ -110,6 +110,6 @@
 # load up the database data into matrix/dataframe files for the model fits included version of the database.
 
 
-load("DBdata[asmt][v4.66].RData")
+load("data/RamLDB v4.66/R Data/DBdata[asmt][v4.66].RData")
 
 
